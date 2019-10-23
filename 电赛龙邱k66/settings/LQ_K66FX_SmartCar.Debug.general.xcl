@@ -1,0 +1,17 @@
+"C:\IAR\arm\bin\armproc.dll" 
+
+"C:\IAR\arm\bin\armstlink2.dll" 
+
+"E:\单片机\电赛龙邱k66\Debug\Exe\c.out" 
+
+--plugin="C:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="C:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="C:\IAR\arm\config\debugger\NXP\K6x_Trace.dmac" 
+
+--flash_loader="C:\IAR\arm\config\flashloader\NXP\FlashK65Fxxx256K.board" 
+
+
+
+
